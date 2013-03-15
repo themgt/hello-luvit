@@ -1,1 +1,1 @@
-web: bin/luvit hello.lua
+web: luvit hello.lua
